@@ -1,14 +1,20 @@
 <h2 align="center">Hello! I'm <a href="https://www.linkedin.com/in/aldyjhonatanhutasoit/">Aldy Jhonatan Hutasoit</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h2>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer | Tech Enthusiast | Lifelong Learner</h3>
 
-- 🎓  Mahasiswa Teknologi Rekayasa Perangkat Lunak di Politeknik Negeri Batam
-- 💼  Pengalaman sebagai Software Engineer di Schneider Electric
-- 🛠️  Menguasai bahasa pemrograman **PHP**, **Python**, dan **JavaScript**
-- 🚀  Berpengalaman dengan framework **Laravel**, **Flask**, dan **React.js**
-- 💾  Memiliki keterampilan kuat dalam manajemen basis data
+- 🎓 Mahasiswa Teknologi Rekayasa Perangkat Lunak di Politeknik Negeri Batam  
+- 💼 Pengalaman sebagai Software Engineer di Schneider Electric  
+- 🛠️ Menguasai bahasa pemrograman **PHP**, **Python**, dan **JavaScript**  
+- 🚀 Terbiasa menggunakan framework **Laravel**, **Flask**, dan **React.js**  
+- 💾 Mahir dalam pengelolaan basis data dan pengembangan API  
 
-### 💡 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldyjhonatanhutasoit)
+---
+
+### 📫 Reach me on:
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Aldyjhonatanhutasoit.my.id)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldyjhonatanhutasoit)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dyy.azure)
+
+---
 
 ### 🚀 Tech Stack:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -20,6 +26,5 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aldyjhonatanhutasoit&label=Profile%20views&color=0e75b6&style=flat" alt="aldyjhonatanhutasoit" /> </p>
