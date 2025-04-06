@@ -20,9 +20,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📈 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldyjhonatanhutasoit&show_icons=true&locale=en&layout=compact" alt="aldyjhonatanhutasoit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aldyjhonatanhutasoit&show_icons=true&locale=en" alt="aldyjhonatanhutasoit" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldyjhonatanhutasoit&label=Profile%20views&color=0e75b6&style=flat" alt="aldyjhonatanhutasoit" /> </p>
