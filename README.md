@@ -2,7 +2,6 @@
 <h3 align="center">Software Engineer | Tech Enthusiast | Lifelong Learner</h3>
 
 - 🎓 Mahasiswa Teknologi Rekayasa Perangkat Lunak di Politeknik Negeri Batam  
-- 💼 Pengalaman sebagai Software Engineer di Schneider Electric  
 - 🛠️ Menguasai bahasa pemrograman **PHP**, **Python**, dan **JavaScript**  
 - 🚀 Terbiasa menggunakan framework **Laravel**, **Flask**, dan **React.js**  
 - 💾 Mahir dalam pengelolaan basis data dan pengembangan API  
