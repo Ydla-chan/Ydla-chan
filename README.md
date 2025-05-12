@@ -1,6 +1,6 @@
 <h2 align="center">Hello! I'm <a href="https://www.linkedin.com/in/aldyjhonatanhutasoit/">Aldy Jhonatan Hutasoit</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h2>
 <h3 align="center">Software Engineer | Tech Enthusiast | Lifelong Learner</h3>
-
+<br>
 
 
 - 🎓 Mahasiswa Teknologi Rekayasa Perangkat Lunak di Politeknik Negeri Batam  
